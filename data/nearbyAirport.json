@@ -1,0 +1,31 @@
+{
+  "status": true,
+  "timestamp": 1691008887676,
+  "data": {
+    "current": {
+      "presentation": {
+        "title": "Mumbai",
+        "suggestionTitle": "Mumbai (BOM)",
+        "subtitle": "India"
+      },
+      "navigation": {
+        "entityId": "95673320",
+        "entityType": "AIRPORT",
+        "localizedName": "Mumbai",
+        "relevantFlightParams": {
+          "skyId": "BOM",
+          "entityId": "95673320",
+          "flightPlaceType": "AIRPORT",
+          "localizedName": "Mumbai"
+        },
+        "relevantHotelParams": {
+          "entityId": "27539520",
+          "entityType": "CITY",
+          "localizedName": "Mumbai"
+        }
+      }
+    },
+    "nearby": [],
+    "recent": []
+  }
+}
