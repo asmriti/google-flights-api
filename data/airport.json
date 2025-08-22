@@ -116,6 +116,52 @@
           "localizedName": "New York"
         }
       }
+    },
+    {
+      "presentation": {
+        "title": "London Gatwick",
+        "suggestionTitle": "London Gatwick (LGW)",
+        "subtitle": "United Kingdom"
+      },
+      "navigation": {
+        "entityId": "13542",
+        "entityType": "AIRPORT",
+        "localizedName": "London Gatwick",
+        "relevantFlightParams": {
+          "skyId": "LGW",
+          "entityId": "13542",
+          "flightPlaceType": "AIRPORT",
+          "localizedName": "London Gatwick"
+        },
+        "relevantHotelParams": {
+          "entityId": "27548074",
+          "entityType": "CITY",
+          "localizedName": "London"
+        }
+      }
+    },
+    {
+      "presentation": {
+        "title": "London Heathrow",
+        "suggestionTitle": "London Heathrow (LHR)",
+        "subtitle": "United Kingdom"
+      },
+      "navigation": {
+        "entityId": "13554",
+        "entityType": "AIRPORT",
+        "localizedName": "London Heathrow",
+        "relevantFlightParams": {
+          "skyId": "LHR",
+          "entityId": "13554",
+          "flightPlaceType": "AIRPORT",
+          "localizedName": "London Heathrow"
+        },
+        "relevantHotelParams": {
+          "entityId": "27548074",
+          "entityType": "CITY",
+          "localizedName": "London"
+        }
+      }
     }
   ]
 }
